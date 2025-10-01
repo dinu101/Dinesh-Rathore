@@ -32,5 +32,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 | **X (Twitter)** | [@i_am_dinu](https://x.com/i_am_dinu) |
 | **Email** | [dinurathore117@gmail.com](mailto:dinurathore117@gmail.com) |
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=onedark" alt="Top Languages" />
-<
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinu101&layout=compact&theme=onedark" alt="Top Languages" />
