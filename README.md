@@ -1,8 +1,4 @@
-
   <h1>Hey there! I'm Dinesh Rathore 👋</h1>
-
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
-
 ---
 
 ### 💻 About Me
@@ -36,9 +32,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 | **X (Twitter)** | [@i_am_dinu](https://x.com/i_am_dinu) |
 | **Email** | [dinurathore117@gmail.com](mailto:dinurathore117@gmail.com) |
 
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=onedark" alt="Dinesh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=onedark" alt="Top Languages" />
 <
