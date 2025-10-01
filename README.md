@@ -1,5 +1,6 @@
   <h1>Hey there! I'm Dinesh Rathore 👋</h1>
----
+  
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 ### 💻 About Me
 
